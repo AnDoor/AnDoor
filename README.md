@@ -1,8 +1,15 @@
-# 💫 About Me:
-I'm a computer engineering student currently working on personal projects to sharpen my programming skills. <br>My goal is to contribute to projects and land a job as an engineer anywhere in the world.<br><br>Right now, I work as a backend developer with expertise in API design (REST APIs), database design, and security.
+<h1 align="center"><b>Hi , I'm Andrew </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+##  About me:
+
+I'm a computer engineering student currently working on personal projects to sharpen my programming skills. <br>My goal is to contribute to projects and land a job as an engineer anywhere in the world.<br><br>Right now, I work as a backend developer with expertise in API design (REST APIs), database design, and security. <br />
+<br> I love programing in GO<br />
+  <p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="GIF" width="150px">
+</p>
 
 ## 🌐 Socials:
+
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewxpv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://ve.linkedin.com/in/andrew-puerta-4a1411254]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axpv33@gmail.com) 
 
 # 💻 Tech Stack:
