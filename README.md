@@ -3,14 +3,14 @@
 ##  About me:
 
 I'm a computer engineering student currently working on personal projects to sharpen my programming skills. <br>My goal is to contribute to projects and land a job as an engineer anywhere in the world.<br><br>Right now, I work as a backend developer with expertise in API design (REST APIs), database design, and security. <br />
-<br> I love programing in GO<br />
+<br> I love GO<br />
   <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="GIF" width="150px">
 </p>
 
 ## 🌐 Socials:
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewxpv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://ve.linkedin.com/in/andrew-puerta-4a1411254]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axpv33@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andrewxpv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrew-puerta-4a1411254/]) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:axpv33@gmail.com) 
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
